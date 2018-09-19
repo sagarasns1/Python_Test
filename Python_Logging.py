@@ -1,3 +1,8 @@
+'''
+Sagara Sumathipala
+@date: 19-09-2018
+'''
+
 import logging
 #logging.basicConfig(filename='../logs/k_mode.log')
 
